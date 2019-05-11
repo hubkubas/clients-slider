@@ -8,4 +8,6 @@ The second condition is that the set of images changes after some time eg every 
 
 The project can be used for example to present a list of clients on a webpage or as images presentation etc. 
 
+working example is here:
 
+https://clients-slider.glitch.me/
